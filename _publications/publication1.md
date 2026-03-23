@@ -5,6 +5,7 @@ permalink: /publications/vaif
 excerpt: "VAIF automatically selects low-overhead distributed tracing instrumentation to localize performance problems in systems like OpenStack and HDFS."
 date: 2021-10-01
 venue: 'ACM SoCC'
+authorship: "4th author"
 classes: wide
 ---
 
