@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/publication3
 excerpt: "We introduce a mitigation-agnostic tanh-based contention score for microservices—implemented in the Gordion framework—and show it can be predicted from performance counters and within-service latencies so operators can act before SLO violations."
 date: 2025-12-15
-venue: 'In Prep'
+venue: 'In Submission'
 authorship: "1st author"
 publ: "false"
 ---
