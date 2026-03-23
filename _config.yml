@@ -103,10 +103,10 @@ author:
   name             : "Zhaoqi(Roy) Zhang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate at Tufts University"
-  location         : 
-  employer         : 
+  location         : Boston, MA, USA
+  employer         : Tufts University
   email            : "zhaoqi.zhang@tufts.com"
-  uri              :
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
   codepen          :
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : https://github.com/royzhang7
   gitlab           :
   google_plus      :
   keybase          :
