@@ -10,6 +10,7 @@ Clicking on any of the links below will redirect you to the abstract and details
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% assign publications_sorted = site.publications | sort: "date" %}
+{% for post in publications_sorted %}
   {% include archive-single.html %}
 {% endfor %}
