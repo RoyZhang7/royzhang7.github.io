@@ -24,9 +24,8 @@
   font-size: .7em;
 }
 
-.pub_authorship {
-  font-size: .7em;
-  color: #797D7F;
+/* Second .talk_venue (e.g. author role) sits tight under venue line */
+.archive__item .talk_venue + .talk_venue {
   margin-top: 0.15em;
 }
 
