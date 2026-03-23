@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Homepage"
+title                    : "Zhaoqi's Homepage"
 title_separator          : "-"
-name                     : "Name1 Name2"
-description              : "Name's academic homepage"
+name                     : "Zhaoqi(Roy) Zhang"
+description              : "Zhaoqi's academic homepage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Name1 Name2"
+  name             : "Zhaoqi(Roy) Zhang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master of CSS"
+  bio              : "PhD Candidate at Tufts University"
   location         : 
   employer         : 
-  email            : "email@email.com"
+  email            : "zhaoqi.zhang@tufts.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
