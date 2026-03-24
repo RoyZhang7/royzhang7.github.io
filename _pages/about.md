@@ -9,7 +9,7 @@ redirect_from:
 classes: wide
 ---
 
-<img src="/assets/images/image.png" alt="About image" style="width: 100%; height: auto;" />
+<img src="/files/images/image.png" alt="About image" style="width: 100%; height: auto;" />
 
 I'm a PhD student in Computer Science at Tufts University as a part of DOCC Lab, working with [Raja Sambasivan](https://raja.cs.tufts.edu/). My primary research field is improving performance of distributed microservice application with Distributed Tracing or all feasible tools (e.g. eBPF, perf). I am also interested in (but don’t get to spend enough time on): Networking, Cryptography, Differential Privacy, Disaggregated System, and Linux Kernel.
 
