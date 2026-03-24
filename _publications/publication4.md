@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/publication4
 excerpt: "TBA"
 date: 2026-12-15
-venue: 'In Preparetion'
+venue: 'In Prep'
 authorship: "1st author"
 publ: "false"
 ---
