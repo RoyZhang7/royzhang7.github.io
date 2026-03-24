@@ -15,4 +15,6 @@ I'm a PhD student in Computer Science at Tufts University as a part of DOCC Lab,
 
 Currently, I am working on (1) establishing formal definition of contention in microservice and (2) extending distributed tracing into kernel to enrich traces visbility from request to lower-layer events. More broadly, I focus on making system-level bottlenecks easier to diagnose with practical and low-overhead observability techniques, and on establishing connection between low level events that are on behalf of request execution back to request-centeric traces. The goal is to help developers reason about performance issues with clearer, end-to-end evidence rather than isolated metrics.
 
-In my spare time, I do powerlifting and play many types of games, including fighting games of video game genre and competitive euro games of boardgames genre. I establish and run the largest community of competitive boardgame players in Boston area (80+ active high-level players). I achieve high ranks in many competitive boardgames, for example top20 in Dune Imperium, top80 in White Castle, and top100 in Faraway.
+In my spare time, I play basketball and many types of games, including fighting games of video game genre and competitive euro games of boardgames genre. I establish and run the largest community of competitive boardgame players in Boston area (80+ active high-level players). I achieve high ranks in many competitive boardgames, for example top20 in Dune Imperium, top80 in White Castle, and top100 in Faraway.
+
+

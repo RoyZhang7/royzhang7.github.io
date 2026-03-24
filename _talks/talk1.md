@@ -1,5 +1,5 @@
 ---
-title: "Fighting Game Explained"
+title: "(Fun Talk) Fighting Game Explained"
 collection: talks
 type: "Fun Talk"
 venue: "Internal Group Meeting"

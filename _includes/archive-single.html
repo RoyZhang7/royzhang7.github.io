@@ -28,7 +28,11 @@
     {% elsif post.collection == 'publications' %}
     <div class="talk_venue">
       {% if post.publ == "false" %}
-        In <i>{{ post.venue | default: "Prep" }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        {% if post.venue == "In Prep" or post.venue == "In Submission" %}
+          <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        {% else %}
+          In <i>{{ post.venue | default: "Prep" }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        {% endif %}
       {% elsif post.venue == 'In Prep' %}
         {{ post.date | default: "1900-01-01" | date: "%Y" }}, In Prep
       {% else %}
