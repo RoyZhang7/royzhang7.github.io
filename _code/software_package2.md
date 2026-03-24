@@ -2,7 +2,7 @@
 title: "TrainTicket Concurrent Auto Query"
 collection: code
 permalink: /code/train-ticket-auto-query
-excerpt: "Concurrent load-generation and warmup tooling for TrainTicket experiments, with scripts for service image build-and-redeploy workflows."
+excerpt: "Concurrent load-generation and warmup tooling for TrainTicket testbed, with scripts for service image build-and-redeploy workflows."
 date: 2024-10-15
 repo: "https://github.com/docc-lab/train-ticket-auto-query"
 ---
