@@ -18,9 +18,9 @@ Currently, I am working on (1) establishing formal definition of contention in m
 In my spare time, I play basketball and many types of games, including fighting games in video game genre and competitive euro games in boardgames genre. I establish and run the largest community of competitive boardgame players in Boston area (80+ active high-level players). I achieve high ranks in many competitive boardgames, for example top20 in Dune Imperium, top80 in White Castle, and top100 in Faraway.
 
 
+![Photo 3](/files/images/grid.png)
+
 ![Photo 1](/files/images/22d63f149350f9e23903262fe45fc7b4.jpg)
 
 ![Photo 2](/files/images/bcde7cc102597e07050e0f6d96d1ae01.jpg)
-
-![Photo 3](/files/images/IMG_9199.jpg)
 
